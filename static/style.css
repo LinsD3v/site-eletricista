@@ -69,3 +69,14 @@
         font-size: 18px;
         text-decoration: none;
         box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+/* Botão de emergência */
+.cta.emergency {
+    background: #d00000; /* Vermelho forte */
+    box-shadow: 0 0 12px rgba(208, 0, 0, 0.6);
+}
+
+.cta.emergency:hover {
+    background: #a00000;
+    box-shadow: 0 0 15px rgba(208, 0, 0, 0.8);
+}
